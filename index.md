@@ -1,7 +1,13 @@
-## Ghxkevin测试网站
+## Ghxkevin浏览器
 
-此网站将来会用于ghxkevin的个人网站。
-站主QQ:1160126539
+Ghxkevin浏览器
 
 
-友链:<a  href="csq.sxl.cn" target="_blank">初三群</a>
+## V3.0最新版本下载地址：  <a  href="https://wwz.lanzouf.com/irpZq04tsqha" target="_blank">点击下载</a>
+密码：ar6y
+
+
+
+
+
+历史版本下载：  <a  href="https://ghxkevinbr.mysxl.cn/" target="_blank">点我跳转</a>
