@@ -17,7 +17,7 @@ Ghxkevin Browser是一款基于Trident内核的、以提升网页打开速度为
 联系QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2::52" alt="1160126539" title="1160126539"/></a>
 
 
-联系邮箱：<a href="mailto:ghxkevin@outlook.com">ghxkevin@<wbr>outlook.com</a>
+联系邮箱：<a href="mailto:ghxkevin@outlook.com"> ghxkevin@<wbr>outlook.com </a>
 
 
 
